@@ -1,0 +1,12 @@
+---
+name: gopaddle
+title: "gopaddle lite"
+maintainer: vinothiniraju@gopaddle.io
+description: no code low code platform
+url: https://gopaddle.io/
+category: management
+version: "4.2.2"
+configuration:
+  STATICIP:
+    label: "static IP"
+    value: "CIVO:MASTER_IP"
